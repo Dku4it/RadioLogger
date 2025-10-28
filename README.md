@@ -2,6 +2,8 @@
 
 **RadioLogger** is a Windows application built with **C# (.NET)** for automatically collecting the names of songs played on internet radio streams.
 
+![RadioLogger Screenshot](./RadioLoggerMain01.jpg)
+
 ---
 
 ## 💡 Purpose
@@ -19,12 +21,6 @@ However, some stations — especially **new or regional ones** — do not provid
 - 💾 Save song titles to a specified **.txt file**  
 - 🧠 Automatically updates when the track changes  
 - 🪟 Modern Windows application interface  
-
----
-
-## 🖼️ Interface
-
-![RadioLogger Screenshot](./RadioLoggerMain01.jpg)
 
 ---
 
