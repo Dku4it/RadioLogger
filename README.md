@@ -19,7 +19,6 @@ However, some stations — especially **new or regional ones** — do not provid
 - 💾 Save song titles to a specified **.txt file**  
 - 🧠 Automatically updates when the track changes  
 - 🪟 Modern Windows application interface  
-- 📷 Screenshot of the interface → [RadioLoggerMain01.jpg](./RadioLoggerMain01.jpg)
 
 ---
 
@@ -31,8 +30,8 @@ However, some stations — especially **new or regional ones** — do not provid
 
 ## 🚀 How to Use
 
-1. Enter or paste the **radio stream URL** (e.g., `http://radio.example.com:8000/stream`).  
-2. Choose the path for the **text file** where song titles will be saved.  
+1. Enter or paste the **radio stream URL** (e.g., `http://radio.example.com:8000/stream`).
+2. Enter the name and location of the **text file** to save. Or select from the predefined ones in the **Settings.ini** file.
 3. Click **Start** — the program will begin logging all songs played on the station.  
 4. The file updates automatically whenever the song changes.
 
@@ -55,6 +54,6 @@ It can also serve as a demonstration of C# desktop application development skill
 
 ## 👤 Author
 
-**Sharon**  
+**Dmytro**  
 Manual & Automation QA Engineer / C# Developer  
-🔗 [GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+🔗 [GitHub Profile](https://github.com/Dku4it)
